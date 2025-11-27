@@ -7,6 +7,7 @@ function MovieCard({movie}){
 
     function onFavouriteClick() {
         alert("Button clicked");
+        console.log("WELCOME");
         // e.preventDefault();
         // if (favorite) removeFromFavorites(movie.id);
         // else addToFavorites(movie);
